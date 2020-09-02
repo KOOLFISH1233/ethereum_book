@@ -1,5 +1,5 @@
 <<第十一章#,上一章：去中心化应用 (DApps)>>
-
+说得好  国际大鸟
 [[oracles_chap]]
 == Oracles
 
